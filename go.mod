@@ -6,7 +6,7 @@ require (
 	cosmossdk.io/api v0.1.0-alpha8
 	cosmossdk.io/core v0.0.0
 	cosmossdk.io/errors v1.0.0-beta.7
-	cosmossdk.io/math v1.0.0-beta.2
+	cosmossdk.io/math v1.0.0-beta.3
 	github.com/99designs/keyring v1.1.6
 	github.com/armon/go-metrics v0.4.0
 	github.com/bgentry/speakeasy v0.1.0
